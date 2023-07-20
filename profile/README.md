@@ -1,10 +1,11 @@
 <div align="center">
   <h1>Melomint Frontend</h1>
 
-<img src="https://github.com/melomint-dev/frontend/assets/74830378/caac0702-8d68-459b-93cf-d64f5418d324" width="250"/>
+<img src="https://github.com/melomint-dev/.github/assets/74860406/6badefeb-383c-4b18-b2f7-c0608162d645" width="250"/>
 </div>
 <div align="center">
- <h3><a href="https://melomint.vercel.app/">Explore Melomint🔗</a></h3>
+ <h3><a href="https://melomint.vercel.app/">Web App🔗</a> <a href="https://melomint-infra.centralindia.cloudapp.azure.com/docs/">AI Processor🔗</a> <a href="https://melomint-infra.centralindia.cloudapp.azure.com/api/">Abstraction APIs🔗</a></h3>
+  
 </div>
 
 ## Objective
