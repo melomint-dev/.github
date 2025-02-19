@@ -52,11 +52,13 @@ As we hear a lot about blockchain and NFT's in every field, we are implementing 
 
 <br>
 
-![dashboard](https://github.com/user-attachments/assets/ed9f42e9-0c78-491b-876f-a27611497aa2)
+![dashboard](https://github.com/user-attachments/assets/5d4fd377-d505-400f-ae52-617018b397fc)
+
 
 <br>
 
-![search](https://github.com/user-attachments/assets/09a4dc07-44dc-4ab8-addf-ee372eb46f1b)
+![search](https://github.com/user-attachments/assets/358d3a07-72d3-4cd4-abb0-d3c356069b1e)
+
 
 <br>
 
@@ -64,15 +66,18 @@ As we hear a lot about blockchain and NFT's in every field, we are implementing 
 
 <br>
 
-![artist](https://github.com/user-attachments/assets/14483f66-b598-4ba3-8989-6f26d2905e1a)
+![artist](https://github.com/user-attachments/assets/8f7dc599-61c3-4593-bf21-abe70ade633e)
+
 
 <br>
 
-![Profile](https://github.com/user-attachments/assets/81959cbb-aba0-40ae-a43e-9a539ef0a87c)
+![Profile](https://github.com/user-attachments/assets/4911bffb-a6ae-47e7-9f58-d14fd38efee0)
+
 
 <br>
 
-![Dashboard- Artist](https://github.com/user-attachments/assets/fb2b29bf-9821-4a3d-b427-48134dfd18f4)
+![Dashboard- Artist](https://github.com/user-attachments/assets/6d90c531-8651-4f9f-9592-12ed9f0fc245)
+
 
 
 ## 🔗 Know the Project Creater
