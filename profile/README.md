@@ -47,7 +47,8 @@ As we hear a lot about blockchain and NFT's in every field, we are implementing 
 
 ## Screenshots
 
-![landing](https://github.com/user-attachments/assets/21b925aa-75b3-40d3-a0a9-c5a229e1c771)
+![landing](https://github.com/user-attachments/assets/0021cfda-6546-4daa-8f31-a69ecaec1e78)
+
 
 <br>
 
