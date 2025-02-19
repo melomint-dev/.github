@@ -62,7 +62,8 @@ As we hear a lot about blockchain and NFT's in every field, we are implementing 
 
 <br>
 
-![Favorites](https://github.com/user-attachments/assets/451e4977-f2a5-4a18-82c9-8082e7ff51ad)
+![Favorites](https://github.com/user-attachments/assets/7e6180a0-9375-44a4-b746-9b086156426b)
+
 
 <br>
 
